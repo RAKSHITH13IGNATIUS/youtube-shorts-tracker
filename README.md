@@ -22,5 +22,4 @@ I Believe that Human decisions are more strongly influenced when information is 
     </td>
   </tr>
 </table>
-
-
+And if u want use for your account just download the ZIP file and EXTRACT it , go extensions in google chrome and turn on the Developer mode , then just click on load and Select the Extracted file 
