@@ -2,6 +2,7 @@
 This is a Chrome Extension that tracks how many YouTube Shorts a user watches and how much time they spend on them🔢.
 this is for the people who Doom Scroll Youtube shorts and just cant end that small break they wanted to take , so this extension show the number and time spent(wasted🙂),
 I Believe that Human decisions are more strongly influenced when information is presented with numbers📊 compared to plain text💡. 
+By using this he can click on Reset Data and track the time
 
 
      I had to watch 60🔢 min to show its working 🤦🤦🙂
