@@ -4,7 +4,7 @@ this is for the people who Doom Scroll Youtube shorts and just cant end that sma
 I Believe that Human decisions are more strongly influenced when information is presented with numbers📊 compared to plain text💡. 
 
 
-                                                                                                              I had to watch 60🔢 min to show its working 🤦🤦🙂
+     I had to watch 60🔢 min to show its working 🤦🤦🙂
 
 <table>
   <tr>
