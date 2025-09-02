@@ -1,0 +1,25 @@
+body {
+  font-family: system-ui, Arial, sans-serif;
+  padding: 12px;
+  width: 240px;
+  background: #0f0f0f;
+  color: #f1f1f1;
+}
+
+h2 {
+  font-size: 16px;
+  margin: 0 0 8px;
+}
+
+p {
+  margin: 4px 0;
+}
+
+button {
+  margin-top: 10px;
+  width: 100%;
+  padding: 8px 10px;
+  border: 0;
+  border-radius: 10px;
+  cursor: pointer;
+}

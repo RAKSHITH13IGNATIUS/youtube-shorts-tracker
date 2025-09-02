@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Shorts Tracker",
+  "version": "1.1",
+  "description": "Tracks how many YouTube Shorts you watch and how long you spend, with a daily reset.",
+  "permissions": ["storage"],
+  "host_permissions": ["*://www.youtube.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/shorts/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
