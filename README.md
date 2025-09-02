@@ -4,14 +4,23 @@ this is for the people who Doom Scroll Youtube shorts and just cant end that sma
 I Believe that Human decisions are more strongly influenced when information is presented with numbers📊 compared to plain text💡. 
 
 
-I had to watch 60🔢 min to show its working 🤦🤦🙂
+                                                                                                              I had to watch 60🔢 min to show its working 🤦🤦🙂
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/e83889d3-3f90-4ba1-bb07-3f9a86355422" alt="Screenshot 1" width="48%" />
-  <a href="https://github.com/user-attachments/assets/3be943ad-0fcf-4a52-a33a-35452c0ed325">
-  </a>
-</div>
-
-
+<table>
+  <tr>
+    <!-- First: Image -->
+    <td>
+      <img src="https://github.com/user-attachments/assets/e83889d3-3f90-4ba1-bb07-3f9a86355422" 
+           alt="Screenshot 2025-09-02 213640" 
+           width="500" />
+    </td>
+    <td>
+      <video src="https://github.com/user-attachments/assets/3be943ad-0fcf-4a52-a33a-35452c0ed325" 
+             width="500" 
+             controls>
+      </video>
+    </td>
+  </tr>
+</table>
 
 
